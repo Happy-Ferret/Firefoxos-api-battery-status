@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "name":"Custom effect battery",
+  "description":"a example animation with API Battery status",
+  "launch_path": "/index.html",
+  "icons": {
+    "64":"/img/icons/64.png",
+    "128":"/img/icons/128.png",
+    "256":"/img/icons/256.png"
+  },
+  "developer": {
+    "name": "Christophe Villeneuve (hellosct1)",
+    "url": "http://www.hello-design.fr"
+  },
+  "installs_allowed_from": ["*"],
+  "locales": {
+    "fr": {
+      "description": "un exemple d'animation avec API Battery status",
+      "developer": {
+        "url": "http://www.hello-design.fr"
+      }
+    }
+  },
+  "default_locale": "en"
+}
